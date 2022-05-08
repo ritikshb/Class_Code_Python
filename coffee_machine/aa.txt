@@ -1,0 +1,6 @@
+#print report
+#check resources sufficient
+#process coins 
+#check transaction successful 
+#quarters 0.25,dimes 0.10,nickles 0.05, pennis 0.01
+
